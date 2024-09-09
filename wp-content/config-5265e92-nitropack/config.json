@@ -1,0 +1,34 @@
+{
+    "www.aeuronbiocare.com": {
+        "siteId": "YmUqyqlpfQMcXwBDuuOpilNetPDbcAed",
+        "siteSecret": "2DcZBJrs7ZVUvzrvdismbmUuvsCkQIHU6HkyPjpn3B1DPJ63e6kJDO68HtKFWOxr",
+        "blogId": 1,
+        "compression": true,
+        "webhookToken": "a9bb64ee72c6393544af96e0acc3cca6",
+        "home_url": "https:\/\/www.aeuronbiocare.com",
+        "admin_url": "https:\/\/www.aeuronbiocare.com\/wp-admin\/",
+        "hosting": "unknown",
+        "alwaysBuffer": true,
+        "isEzoicActive": false,
+        "isApoActive": false,
+        "isNginxHelperActive": false,
+        "isLateIntegrationInitRequired": false,
+        "isDlmActive": false,
+        "isWoocommerceCacheHandlerActive": false,
+        "isWoocommerceActive": true,
+        "isAeliaCurrencySwitcherActive": false,
+        "isGeoTargetingWPActive": false,
+        "dlm_downloading_url": null,
+        "dlm_download_endpoint": null,
+        "pluginVersion": "1.13.0",
+        "options_cache": {
+            "cache_handler_cache_handler": false,
+            "woocommerce_default_customer_address": "base",
+            "wc_aelia_currency_switcher": {
+                "ipgeolocation_enabled": null
+            }
+        },
+        "additional_domains": []
+    },
+    "config_path": "b58012d2f2d80b132227b62e93f3992c"
+}
